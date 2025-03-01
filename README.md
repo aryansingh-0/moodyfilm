@@ -2,6 +2,11 @@
 
 MoodyFilm is a full-stack movie recommendation and discussion platform where users can engage in movie-related conversations, share opinions, and receive personalized recommendations based on film genres.
 
+## Website Link
+
+Visit the **MoodyFilm** website: [MoodyFilm Website](https://moodyfilm.netlify.app))
+
+
 ## Features
 
 - **User Authentication**: Sign up and log in functionality.
