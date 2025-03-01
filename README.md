@@ -4,7 +4,7 @@ MoodyFilm is a full-stack movie recommendation and discussion platform where use
 
 ## Website Link
 
-Visit the **MoodyFilm** website: [MoodyFilm Website](https://moodyfilm.netlify.app))
+Visit the **MoodyFilm** website: ([MoodyFilm Website](https://moodyfilm.netlify.app))
 
 
 ## Features
